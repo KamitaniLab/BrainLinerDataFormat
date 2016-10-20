@@ -1,6 +1,8 @@
 BrainLinerDataFormat
 ====================
 
+<img src="https://github.com/KamitaniLab/figures/blob/master/brainlinerTop.png" alt="image">
+
 Documentation and examples about the BrainLiner http://brainliner.jp HDF5 data format.
 
 For brainliner, see 
