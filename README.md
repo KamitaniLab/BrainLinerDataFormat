@@ -1,6 +1,6 @@
 # Brain Liner Data Format
 
-![brainlinerTop.png](https://github.com/KamitaniLab/figures/blob/master/brainlinerTop.png)
+![brainlinerTop.png](brainlinerTop.png)
 
 Documentation and examples about the [BrainLiner](http://brainliner.jp) HDF5 data format.
 
